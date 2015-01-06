@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="action_settings">Settings</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+
+<!-- Quiz-Questions -->
+
+<string name="question_1">Latitude is measured east and west of the prime meridian.</string>
+<string name="question_2">A cape is a point of land extending into a body of water.</string>
+<string name="question_3">The Antarctic Circle is located south of the equator.</string>
+<string name="question_4">A star on a map usually denotes a national capital.</string>
+<string name="question_5">Lines of longitude are measured north and south of the equator.</string>
+<string name="question_6">When you cross the prime meridian the date becomes either one day earlier or one day later.</string>
+<string name="question_7">Earth\'s oceans are the Pacific, Atlantic, Indian, and Arctic.</string>
+<string name="question_8">There are 50 states in the contiguous United States.</string>
+<string name="question_9">An area of land extending into a body of water and almost surrounded by water is a peninsula.</string>
+<string name="question_10">The Tropic of Cancer is located in the northern hemisphere.</string>
+<string name="question_11">Africa, Asia, Australia, Europe, North America, and South America form Earth\'s continental land masses.</string>
+<string name="question_12">A body of land completely surrounded by water is an island.</string>
+<string name="question_13">The part of the map that contains information about what the symbols mean is the key.</string>
+<string name="question_14">Longitude lines, or meridians, measure distances north and south.</string>
+<string name="question_15">The North Pole is not located on a continent.</string>
+<string name="question_16">Central America is located on the South American continent.</string>
+<string name="question_17">A large body of water partly surrounded by land is a strait.</string>
+<string name="question_18">The three countries with the largest land area in the world are Russia, Canada, and the United States.</string>
+<string name="question_19">The Great Lakes, which border Canada and the United States, are Ontario, Huron, Erie, and Superior.</string>
+<string name="question_20">The southernmost point in the world is Antarctica.</string>
+<string name="question_21">The largest lake in the world is the Caspian Sea.</string>
+<string name="question_22">Spain and Portugal are found on the Iberian Peninsula in Europe.</string>
+<string name="question_23">The Tropic of Cancer is a meridian.</string>
+<string name="question_24">Zero degrees latitude divides the world into northern and southern hemispheres.</string>
+<string name="question_25">Alaska and Hawaii are part of the contiguous United States.</string>
+<string name="question_26">The Mississippi River is the longest river in the world.</string>
+<string name="question_27">Canada is divided into provinces, which are similar to states in the United States.</string>
+<string name="question_28">The Indian Ocean is the third largest ocean in the world.</string>
+<string name="question_29">The line that starts the measurement of latitude is the prime meridian.</string>
+<string name="question_30">The North American continent ranks third in land area.</string>
+
+
+</resources>
